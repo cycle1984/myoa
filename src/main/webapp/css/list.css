@@ -1,0 +1,18 @@
+
+TH
+{
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: #ffff00;
+    FONT-SIZE: 14px
+}
+.TD1
+{
+    BORDER-BOTTOM: black 1px solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: white 1px solid;
+    FONT-SIZE: 14px;
+    TEXT-ALIGN: center
+}

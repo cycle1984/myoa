@@ -1,0 +1,27 @@
+TD.clsTopFieldName {
+	COLOR: #008080; TEXT-ALIGN: left; WIDTH: 200px
+}
+TD.clsFieldName {
+	BACKGROUND-COLOR: #e7e7e7; COLOR: #0d5a87; TEXT-ALIGN: right; VERTICAL-ALIGN: text-top; WIDTH: 200px
+}
+TD.clsFieldValue {
+	BACKGROUND-COLOR: #ffffcc; COLOR: #990000; TEXT-ALIGN: left
+}
+TD.clsFieldValue2 {
+	COLOR: #000080; FONT-SIZE: 9pt; TEXT-ALIGN: left
+}
+TD.clsTab {
+	BACKGROUND-COLOR: #003366; BORDER-BOTTOM: #99ccff 2px inset; BORDER-LEFT: #6699cc 1px solid; BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #003366 2px solid; COLOR: #ffffff; CURSOR: hand
+}
+TD.clsTabSelected {
+	BACKGROUND-COLOR: #6699cc; BORDER-LEFT: #99ccff 2px outset; BORDER-RIGHT: #99ccff 2px outset; BORDER-TOP: #99ccff 2px outset; COLOR: #ccffcc; FONT-WEIGHT: bold
+}
+TABLE.yjTable {
+	BORDER-BOTTOM: #555555 1px solid; BORDER-COLLAPSE: collapse; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; WIDTH: 100%
+}
+TD.yjLabel {
+	BACKGROUND-COLOR: #e7e7e7; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; COLOR: #000000; TEXT-ALIGN: center
+}
+TD.yjContent {
+	BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; COLOR: #000000; TEXT-ALIGN: left
+}

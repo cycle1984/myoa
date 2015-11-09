@@ -1,0 +1,89 @@
+BODY  {
+	font-size : 9pt;
+	font-weight : normal;
+	line-height: 14px;
+	font-style : normal;
+	text-decoration : none;
+}
+
+P  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+}
+
+A  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+; color: #0000ff
+}
+
+A:Visited  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+	text-decoration : none;
+}
+
+A:Active  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+        color:red;
+	text-decoration : none;
+}
+
+A:Hover  {
+	font-weight : normal;
+	font-style : normal;
+        color: #FF3300;
+; text-decoration: underline
+}
+
+EM  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+	text-transform : none;
+}
+
+I  {
+	font-family: Arial;
+	font-size : 9pt;
+	font-weight : bold;
+	font-style : italic;
+}
+
+BIG  {
+	font : 13pt Times New Roman;
+	font-weight : bold;
+}
+
+B  {
+	font-size : 9pt;
+	text-decoration : none;
+	font-weight : bold;
+}
+
+TD  {
+	font-size : 9pt;
+	font-weight : normal;
+	font-style : normal;
+}
+
+Strong  {
+	font-family: "Arial";
+	font-size : 9pt;
+	font-weight : bold;
+	text-decoration : none;
+}
+.gwTableClass { border:solid 1px #FFFFFF;backGround-Color:#eeeeee;}
+.gwTdTitle { color:#FF0000;font:bold 16pt 宋体; height:50pt; text-Align:center;}
+.gwTdLabel { color:#FF0000; font:bold 9pt 宋体; height:35pt; text-Align:center;}
+.gwTextInput { font:9pt 宋体; border:solid #CCCCCC; border-width:0px 0px 1px 0px; width:90%;}
+select { font:bold 9pt 宋体; color:#F84A53; backGround-Color:#EAEAEA;}
+BODY {
+    scrollbar-face-color:#004477;scrollbar-highlight-color:#004477;scrollbar-3dlight-color:#004477;scrollbar-darkshadow-color:#FFFFFF;scrollbar-shadow-color:#004477;scrollbar-arrow-color:#ffffff;scrollbar-track-color:#EEEEEE;
+}

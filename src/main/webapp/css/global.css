@@ -1,0 +1,141 @@
+A:link {
+	COLOR: #000000; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #595959; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #c93333; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.SwitchView:link {
+	COLOR: #ffffff; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.SwitchView:visited {
+	COLOR: #ffffff; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.SwitchView:hover {
+	COLOR: #fffc00; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.a01:link {
+	COLOR: #ffffff; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.a01:visited {
+	COLOR: #ffffff; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.a01:hover {
+	COLOR: #fffc00; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.button:link {
+	COLOR: #000000; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.button:visited {
+	COLOR: #000000; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.button:hover {
+	COLOR: #000000; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+BODY {
+	FONT-FAMILY: '宋体'; FONT-SIZE: 9pt; LINE-HEIGHT: 15pt
+}
+TD {
+	FONT-FAMILY: "宋体"; FONT-SIZE: 9pt
+}
+INPUT {
+	FONT-FAMILY: "宋体"; FONT-SIZE: 9pt
+}
+SELECT {
+	FONT-FAMILY: "宋体"; FONT-SIZE: 9pt
+}
+TEXTAREA {
+	FONT-FAMILY: "宋体"; FONT-SIZE: 9pt
+}
+TR.ViweBar {
+	BACKGROUND-COLOR: #d7e4e5
+}
+.CurrentPage {
+	COLOR: #000000
+}
+.NameView {
+	COLOR: #ffffff
+}
+TD.commonButton {
+	BACKGROUND-COLOR: #d6ebff
+}
+TR.Label01 {
+	BACKGROUND-COLOR: #9ccbff
+}
+TR.Label02 {
+	BACKGROUND-COLOR: #5aaeff
+}
+TABLE.inputTable {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.buttonOvr {
+	BACKGROUND-COLOR: #629abd; BORDER-BOTTOM: #134e70 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-RIGHT: #134e70 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; POSITION: relative; TOP: 1px
+}
+.buttonPress {
+	BACKGROUND-COLOR: #9fdafd; BORDER-BOTTOM: #134e70 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-RIGHT: #134e70 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; POSITION: relative; TOP: 1px
+}
+.buttonNor {
+	BACKGROUND-COLOR: #3b77ab; BORDER-BOTTOM: #3b77ab 1px solid; BORDER-LEFT: #3b77ab 1px solid; BORDER-RIGHT: #3b77ab 1px solid; BORDER-TOP: #3b77ab 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; POSITION: relative; TOP: 1px
+}
+.buttonSep {
+	BACKGROUND-COLOR: #3b77ab; BORDER-LEFT: buttonshadow 1px solid; BORDER-RIGHT: buttonhighlight 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 0px; TOP: 1px
+}
+.Toolbar {
+	BACKGROUND-COLOR: #629abd; BORDER-BOTTOM: #3b77ab 1px solid; BORDER-LEFT: #3b77ab 1px solid; BORDER-RIGHT: #3b77ab 1px solid; BORDER-TOP: #3b77ab 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; LEFT: 0px; POSITION: relative; TOP: 0px
+}
+.bottombar {
+	BACKGROUND-COLOR: #f6f6f6; BORDER-BOTTOM: #404040 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-RIGHT: #404040 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; LEFT: 0px; POSITION: relative; TOP: 0px
+}
+.bottompress {
+	BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: #404040 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-RIGHT: #404040 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; LEFT: 0px; POSITION: relative; TOP: 0px
+}
+.tableClass {
+	BORDER-BOTTOM: #555555 1px solid; BORDER-COLLAPSE: collapse; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid
+}
+.tdTitle {
+	BACKGROUND-COLOR: #d0d0d0; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; FONT: bold 14pt "宋体"; HEIGHT: 27px; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.tdLabel {
+	BACKGROUND-COLOR: #ebebeb; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; FONT: 9pt 宋体; HEIGHT: 25px; TEXT-ALIGN: right; VERTICAL-ALIGN: middle
+}
+.tdContent {
+	BACKGROUND-COLOR: #fafafa; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 1px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 1px solid; FONT: 9pt 宋体; HEIGHT: 25px; VERTICAL-ALIGN: middle
+}
+.tdLabel1 {
+	BACKGROUND-COLOR: #ebebeb; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 0px solid; FONT: 9pt 宋体; TEXT-ALIGN: right; VERTICAL-ALIGN: middle
+}
+.tdContent1 {
+	BACKGROUND-COLOR: #fafafa; BORDER-BOTTOM: #555555 1px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 1px solid; BORDER-TOP: #555555 0px solid; FONT: 9pt 宋体; VERTICAL-ALIGN: middle
+}
+.vwStat {
+	BACKGROUND-COLOR: white; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; WIDTH: 100%
+}
+.vwStatCell {
+	COLOR: #333333; FONT: 9pt 宋体; TEXT-ALIGN: right; VERTICAL-ALIGN: middle
+}
+.vwTable {
+	BACKGROUND-COLOR: white; BORDER-BOTTOM: 1px; BORDER-LEFT: 1px; BORDER-RIGHT: 1px; BORDER-TOP: 1px; WIDTH: 95%
+}
+.vwBlankTable {
+	BACKGROUND-COLOR: white; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-RIGHT: 0px; BORDER-TOP: 0px; WIDTH: 95%
+}
+.vwTitle {
+	HEIGHT: 27px; VERTICAL-ALIGN: middle; fborder: solid 1px #555555
+}
+.vwTitleName {
+	BACKGROUND-COLOR: #d0d0d0; BORDER-BOTTOM: #555555 0px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 0px solid; BORDER-TOP: #555555 0px solid; FONT-WEIGHT: bold; TEXT-ALIGN: center; ont: bold 14pt "宋体"
+}
+.vwColumn {
+	BACKGROUND-COLOR: #ebebeb; BORDER-BOTTOM: #555555 0px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 0px solid; BORDER-TOP: #555555 0px solid; FONT: 9pt 宋体; HEIGHT: 25px; VERTICAL-ALIGN: middle
+}
+.vwRow0 {
+	BACKGROUND-COLOR: #f3f3f3; BORDER-BOTTOM: #555555 0px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 0px solid; BORDER-TOP: #555555 0px solid; FONT: 9pt 宋体; HEIGHT: 25px; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.vwRow1 {
+	 BACKGROUND-COLOR: #f7f7f7;BORDER-BOTTOM: #555555 0px solid; BORDER-LEFT: #555555 0px solid; BORDER-RIGHT: #555555 0px solid; BORDER-TOP: #555555 0px solid; FONT: 9pt 宋体; HEIGHT: 25px; TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+BODY {
+    scrollbar-face-color:#004477;scrollbar-highlight-color:#004477;scrollbar-3dlight-color:#004477;scrollbar-darkshadow-color:#FFFFFF;scrollbar-shadow-color:#004477;scrollbar-arrow-color:#ffffff;scrollbar-track-color:#EEEEEE;
+}
