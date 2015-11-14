@@ -38,6 +38,11 @@
 			<result name="noLimit">/noLimit.jsp</result>
 		</global-results>
 		
+		<!-- 流程定义 -->
+		<action name="processDefinition_*" class="processDefinitionAction" method="{1}">
+			<result>/WEB-INF/jsp/processDefinition/list.jsp</result>
+		</action>
+		
 		<!-- 公文 -->
 		<action name="document_*" class="documentAction" method="{1}">
 			<result>/WEB-INF/jsp/document/publishList.jsp</result>
